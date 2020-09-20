@@ -1,0 +1,116 @@
+                                    Bootstrap
+                                    ---------
+    Bootsrap is a collection of class selector.which are available in external css.
+    
+    bootstrap internally used jquery library .
+    bs is used to make responsive webpages.
+    bs provide the look an feel of webpages .
+    
+    some css library are used in bs:
+    -----------------------------
+    bootsrap.min.css (external css)
+    font-awesome.min.css  (external css)
+     hover.min.css     (external css)
+     
+    some jquery library are used in bs:
+    -----------------------------   
+     jquery.min.js  (js)
+     bootsrap.min.js   (js)
+     
+     
+     bs devloper : mark otto 
+      bs3 ,bs4
+      
+      
+    Note:
+    --------------------------------------------------
+    some classes of bootstrap :
+    
+    --------------------------------
+    Text  tag classes in  bootstrap :
+    ______________________________________
+    text text-success 
+    text text-warning 
+    text text-danger 
+    text text-info
+    text text-uppercase 
+    text text-lowercase 
+    text text-center 
+    text text-default .......etc
+    
+    image tag classes of bs :
+    -------------------------------
+    img img-responsive 
+    img img-circle
+    img img-thumbnail
+    img img-rounded 
+    
+    
+    =====================================
+    Gird classes 
+    --------------------------
+    col-xl-12 (extra large devices)
+    col-lg-12 (large devices )
+    col-md-12 (medium devices )
+    col-xs-12  
+    col-sm-12
+    
+    bs container class:
+    -------------------
+    container
+    container-fluid
+    
+    section  class :-
+    -------------------
+    panel panel-heading 
+    panel panel-body
+    
+    table class :-
+    ----------------------
+    table table-responsive 
+    table table-display 
+    table table-striped  etc ...
+    
+    icon classes of bs:
+    -----------------------
+    fa fa-facebook 
+    fa fa-facebook-square
+    fa fa-google 
+    fa fa-twitter
+    fa fa-phone
+    fa fa-whtasapp
+    fa fa-instagram
+    fa fa-trash etc ......
+    
+    
+  Button classes of bs: 
+  -------------------------
+  btn btn-success
+  btn btn-danger 
+  btn btn-info
+  btn btn-default
+  btn btn-lg etc .......
+  
+  form-control class used in form controls.
+  ---------------------------------------------
+  Hover classes in bs :-
+  -------------------------------
+  hvr hvr-bob 
+  hvr hvr-pulse 
+  hvr hvr-push
+  hvr hv-pop
+  ................etc
+  
+  how to use bootstrap :-
+  --------------------------------------
+  1. - create a folder .
+  2. add folder(css,fonts,js)in folder.
+  3. create a new page and start web page.
+  4. add  libraryes in web page.
+        
+        <link href="css/bootstrap.min.css " rel="stylesheet"/>
+        <link href ="css/font-awesome.min.css " rel="stylesheet"/>
+        <link href ="css/hover-min.css" rel="stylesheet"/>
+        
+        <script src ="js/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
